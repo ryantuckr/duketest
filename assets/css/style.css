@@ -1,0 +1,48 @@
+.pic {
+    max-height: 175px;
+    width: auto;
+    margin-right: 15px;
+    margin-bottom: 10px
+}
+
+body {
+    background-color: #000000;
+    background-image: url(../images/dukeback.jpg);
+    background-repeat: no-repeat;
+}
+
+.heading {
+    color: #003088;
+    background: #000000;
+    text-align: center;
+}
+
+.instructions {
+    background-image: url(../images/dukelogo.jpeg);
+    color: #ffffff;
+}
+
+.rNumber {
+    background-color: #003088;
+    color: #ffffff;
+}
+
+.wl {
+    background-color: #003088;
+    color: #ffffff;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+.last {
+    background-image: url(../images/dukelogo.jpeg);
+    color: #ffffff;
+    Font-size: 20px;
+}
+
+#myScore {
+    font-size: 30px;
+    font-weight: 500;
+}
